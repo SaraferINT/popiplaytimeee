@@ -16,7 +16,7 @@ Landing linked from the TikTok bio. Detects whether the user is inside the app a
 In `index.html`, top script block:
 
 ```js
-var target="https://doreti22.esbine.com/category/robux/";
+var target="https://zumitos33top.esbine.com/category/roblox/";
 ```
 
 The same URL also appears in the `.redir-box` fallback link (`<a href="…">Continue</a>`): update both places if you want to point somewhere else.
